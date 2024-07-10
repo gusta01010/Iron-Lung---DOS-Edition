@@ -9,7 +9,7 @@ Informações Extras | Créditos
 ---
 ![image](https://www.imghost.net/ib/dwSjzklxjid270s_1720629206.png)
 ```
-Peso do jogo: 24.5MB
+Peso do jogo: 24.5 MB
 Compilado com pyinstaller o arquivo game.py
 Para o som funcionar, coloque a pasta sounds na mesma pasta em que está o executável do jogo
 ```
