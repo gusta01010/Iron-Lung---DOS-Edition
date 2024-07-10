@@ -11,6 +11,7 @@ Informações Extras | Créditos
 ```
 Peso do jogo: 24.5MB
 Compilado com pyinstaller o arquivo game.py
+Para o som funcionar, coloque a pasta sounds na mesma pasta em que está o executável do jogo
 ```
 ***
 O jogo é uma recriação do jogo Iron Lung, disponível na steam [Iron Lung (steampowered.com)](https://store.steampowered.com/app/1846170/Iron_Lung/) feito por David Szymanski. Este projeto foi feito em python por mim sem fins lucrativos, apenas com fins educativos.
