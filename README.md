@@ -3,7 +3,7 @@
 
 ![planeta descoberto](https://www.imghost.net/ib/PmJ61KUBin9LcfY_1720628108.jpg)
 
-**Busque e registre as anomalias que habitam neste lugar. Assim quem sabe, a humanidade poderá ter uma nova esperança de encontrar seu próprio lar.**
+**Busque e registre as anomalias que habitam neste lugar. Assim quem sabe, a humanidade terá uma nova esperança de encontrar o seu próprio lar denovo.**
 
 Informações Extras | Créditos
 ---
