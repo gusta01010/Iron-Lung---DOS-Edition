@@ -1,6 +1,4 @@
-#Classe Menu abc 123
-
-#Teste
+#Classe Menu
 import keyboard
 import os
 import time
