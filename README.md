@@ -1,13 +1,13 @@
 # *Iron Lung - DOS Edition*
 ***Condenado, você foi escolhido por uma estação espacial para comandar o submarino apelidado de "Iron Lung". Caso consiga realizar a expedição na lua de sangue, sua liberdade será concedida.***
 
-![planeta descoberto](https://www.imghost.net/ib/PmJ61KUBin9LcfY_1720628108.jpg)
+![planeta descoberto](https://files.catbox.moe/b7nenq.jpg)
 
 **Busque e registre as anomalias que habitam neste lugar. Assim quem sabe, a humanidade terá uma nova esperança em encontrar o seu próprio lar novamente.**
 
 Informações Extras | Créditos
 ---
-![image](https://www.imghost.net/ib/dwSjzklxjid270s_1720629206.png)
+![image](https://files.catbox.moe/1n6rk3.png)
 ```
 Peso do jogo: 24.5 MB
 Compilado com pyinstaller o arquivo game.py
